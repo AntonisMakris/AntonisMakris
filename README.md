@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Scholar Badge](https://img.shields.io/badge/-Scholar-gray?logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=nKGT_csAAAAJ)](https://scholar.google.com/citations?user=nKGT_csAAAAJ)
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-0cb?logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Antonios_Makris3)](https://www.researchgate.net/profile/Antonios_Makris3)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-0514-4292)](https://orcid.org/0000-0003-0514-4292)
-[![DBLP Badge](https://img.shields.io/badge/-dblp-blue&link=https://dblp.uni-trier.de/pid/191/9101.html) (https://dblp.uni-trier.de/pid/191/9101.html)
+[![DBLP Badge](https://img.shields.io/badge/-dblp-blue&link=https://dblp.uni-trier.de/pid/191/9101.html)](https://dblp.uni-trier.de/pid/191/9101.html)
 
 
 I'm currently work at the [Department of Informatics and Telematics](https://www.dit.hua.gr/index.php/en/) of Harokopio University of Athens as a **Research Associate**.
