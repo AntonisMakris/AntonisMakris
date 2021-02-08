@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonios-makris-8a9253145/)](https://www.linkedin.com/in/antonios-makris-8a9253145/)
-[![Scholar Badge](https://img.shields.io/badge/-Scholar-gray?logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=nKGT_csAAAAJ)](https://scholar.google.com/citations?user=nKGT_csAAAAJ)
+[![Scholar Badge](https://img.shields.io/badge/-Scholar-gray?logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=j5DZpL4AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=j5DZpL4AAAAJ&hl=en&oi=ao)
 [![Researchgate Badge](https://img.shields.io/badge/-ResearchGate-0cb?logo=Researchgate&logoColor=white&link=https://www.researchgate.net/profile/Antonios_Makris3)](https://www.researchgate.net/profile/Antonios_Makris3)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-0514-4292)](https://orcid.org/0000-0003-0514-4292)
 [![DBLP Badge](https://img.shields.io/badge/-dblp-blue)](https://dblp.uni-trier.de/pid/191/9101.html)
