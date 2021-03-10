@@ -36,7 +36,7 @@ My research interests include:
 - Big data management and analysis
 - NoSQL database systems
 - High performance computing (HPC)
-- Spatiotemporal analysis
+- Spatiotemporal and trajectory analysis
 - Stream processing
 - Deep Learning (Transfer Learning) 😄 Newbie
 
