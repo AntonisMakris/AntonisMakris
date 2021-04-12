@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I'm currently work at the [Department of Informatics and Telematics](https://www.dit.hua.gr/index.php/en/) of Harokopio University of Athens as a **Research Associate**.
 
-This period I am implementing a global-scale, real-time, anomaly detection system for vessels, using AIS data streams (distributed systems, machine learning, CEP, all in the mix). Furthermore, I am passionate about implementing CNN models and exploring DL in general, for the classification of COVID-19 from X-Ray and CT dicom images. 
+This period I am working on the implementation of a distributed edge storage framework spread across heterogeneous edge and cloud nodes, with intelligent decisions on data placement, data caching and considerations on performance (QoE) and security. In addition, I am implementing a global-scale, real-time, anomaly detection system for vessels, using AIS data streams (distributed systems, machine learning, CEP, all in the mix). Furthermore, I am passionate about implementing CNN models and exploring DL in general, for the classification of CT dicom images. 
 
 You can find more about me in my [personal page](https://www.dit.hua.gr/~amakris/).
 
@@ -38,7 +38,7 @@ My research interests include:
 - High performance computing (HPC)
 - Spatiotemporal and trajectory analysis
 - Stream processing
-- Deep Learning (Transfer Learning) 😄 Newbie
+- Deep Learning (Transfer Learning) Newbie
 
 Ongoing Projects:
 - [CHARITY](https://www.charity-project.eu/en) (H2020)
