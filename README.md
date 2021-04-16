@@ -33,6 +33,8 @@ You can find more about me in my [personal page](https://www.dit.hua.gr/~amakris
 
 My research interests include:
 - Distributed computing
+- Edge and cloud computing
+- Edge storage
 - Big data management and analysis
 - NoSQL database systems
 - High performance computing (HPC)
