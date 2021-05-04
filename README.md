@@ -33,17 +33,18 @@ You can find more about me in my [personal page](https://www.dit.hua.gr/~amakris
 
 My research interests include:
 - Distributed computing
-- Edge and cloud computing
+- Edge and Cloud computing
 - Edge storage
 - Big data management and analysis
 - NoSQL database systems
 - High performance computing (HPC)
 - Spatiotemporal and trajectory analysis
 - Stream processing
-- Deep Learning (Transfer Learning) Newbie
+- Deep Learning (CNNs, RNNs)
 
 Ongoing Projects:
 - [CHARITY](https://www.charity-project.eu/en) (H2020)
 - GLASSEAS (Human Resources Development, Education and Lifelong Learning - ESPA)
 - [SmartShip](https://smartship2020.eu/) (H2020-MSCA-RISE-2018)
 - [MASTER](http://www.master-project-h2020.eu/) (H2020-MSCA-RISE-2017)
+
