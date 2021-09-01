@@ -44,7 +44,6 @@ My research interests include:
 
 Ongoing Projects:
 - [CHARITY](https://www.charity-project.eu/en) (H2020)
-- GLASSEAS (Human Resources Development, Education and Lifelong Learning - ESPA)
 - [SmartShip](https://smartship2020.eu/) (H2020-MSCA-RISE-2018)
 - [MASTER](http://www.master-project-h2020.eu/) (H2020-MSCA-RISE-2017)
 
