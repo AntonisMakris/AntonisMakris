@@ -47,3 +47,10 @@ Ongoing Projects:
 - [SmartShip](https://smartship2020.eu/) (H2020-MSCA-RISE-2018)
 - [MASTER](http://www.master-project-h2020.eu/) (H2020-MSCA-RISE-2017)
 
+#### My GitHub Stats
+
+![Antonis GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMakris&show_icons=true&theme=radical)
+
+<!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMakris&layout=compact)](https://github.com/AntonisMakris/github-readme-stats) -->
+
+
