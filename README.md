@@ -30,7 +30,6 @@ This period I am working on the implementation of a distributed edge storage fra
 You can find more about me in my [personal page](https://www.dit.hua.gr/~amakris/).
 
 
-
 My research interests include:
 - Distributed computing
 - Edge and Cloud computing
@@ -52,5 +51,6 @@ Ongoing Projects:
 ![Antonis GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMakris&show_icons=true&theme=dracula)
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMakris&layout=compact)](https://github.com/AntonisMakris/github-readme-stats) -->
+
 
 
