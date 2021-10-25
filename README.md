@@ -49,7 +49,7 @@ Ongoing Projects:
 
 #### My GitHub Stats
 
-![Antonis GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMakris&show_icons=true&theme=radical)
+![Antonis GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMakris&show_icons=true&theme=dracula)
 
 <!-- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMakris&layout=compact)](https://github.com/AntonisMakris/github-readme-stats) -->
 
