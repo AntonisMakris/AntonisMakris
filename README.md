@@ -39,7 +39,7 @@ My research interests include:
 - High performance computing (HPC)
 - Spatiotemporal and trajectory analysis
 - Stream processing
-- Deep Learning (CNNs, RNNs)
+- Machine/Deep Learning
 
 Ongoing Projects:
 - [CHARITY](https://www.charity-project.eu/en) (H2020)
