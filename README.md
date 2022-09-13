@@ -27,7 +27,7 @@ I'm currently work at the [Department of Informatics and Telematics](https://www
 
 This period I am working on the implementation of a distributed edge storage framework spread across heterogeneous edge and cloud nodes, with intelligent decisions on data placement, data caching and considerations on performance (QoE) and security. In addition, I am implementing a global-scale, real-time, anomaly detection system for vessels, using AIS data streams (distributed systems, machine learning, CEP, all in the mix). Furthermore, I am passionate about implementing CNN models and exploring DL in general, for the classification of CT DICOM images. 
 
-You can find more about me in my [personal page](https://www.dit.hua.gr/~amakris/).
+You can find more about me in my [personal page](https://webms.hua.gr/~amakris/).
 
 
 My research interests include:
