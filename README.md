@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![DBLP Badge](https://img.shields.io/badge/-dblp-blue)](https://dblp.uni-trier.de/pid/191/9101.html)
 
 
-
+<!-- 
 I'm currently work at the [Department of Informatics and Telematics](https://www.dit.hua.gr/index.php/en/) of Harokopio University of Athens as a **Research Associate**.
 
 This period I am working on the implementation of a distributed edge storage framework spread across heterogeneous edge and cloud nodes, with intelligent decisions on data placement, data caching and considerations on performance (QoE) and security. In addition, I am implementing a global-scale, real-time, anomaly detection system for vessels, using AIS data streams (distributed systems, machine learning, CEP, all in the mix). Furthermore, I am passionate about implementing CNN models and exploring DL in general, for the classification of CT DICOM images. 
@@ -45,7 +45,7 @@ Ongoing Projects:
 - [CHARITY](https://www.charity-project.eu/en) (H2020)
 - [SmartShip](https://smartship2020.eu/) (H2020-MSCA-RISE-2018)
 - [MASTER](http://www.master-project-h2020.eu/) (H2020-MSCA-RISE-2017)
-
+-->
 <!-- #### My GitHub Stats
 
 ![Antonis GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMakris&show_icons=true&theme=dracula) -->
